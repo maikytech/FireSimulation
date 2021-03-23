@@ -14,6 +14,7 @@ public class PuttingOutFire : MonoBehaviour
     private void Awake()
     {
         ExtinguisherAudio = fireExtinguisher.GetComponent<AudioSource>();
+        audioAlarmaEvacuacion = alarmaEvacuacion.GetComponent<AudioSource>();
     }
     private void OnTriggerEnter(Collider other)
     {
@@ -21,18 +22,18 @@ public class PuttingOutFire : MonoBehaviour
         {
             ExtinguisherAudio.Play();
             Invoke("OutFire", 4.0f);
-            Invoke("AlarmaEvacuacion", 5.0f);
+            Invoke("AlarmaEvacuacion", 8.0f);
         }
     }
 
     private void OutFire()
     {
         fire.SetActive(false);
-        ExtinguisherAudio.Play();
+        ExtinguisherAudio.Stop();
     }
     private void AlarmaEvacuacion()
     {
-        //Debug.Log("Se invoco la funcion");
-        audioAlarmaEvacuacion.Play();
+        Debug.Log("Se invoco la funcion");
+        audioAlarmaEvacuacion.Stop();
     }
 }

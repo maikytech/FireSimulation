@@ -104,3 +104,83 @@ Received Import Request.
 Start importing Assets/Antilatency/Integration/Samples/MainScene_All_floor.unity using Guid(80adb3d8cdbfec74985bd0cb59e2fe90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa0fd842a23b6a4238639b1d94a52c8') in 0.047285 seconds
   Import took 0.051740 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 166.658391 seconds.
+  path: Assets/Antilatency/Integration/Prefabs/AltBracersRig.prefab
+  artifactKey: Guid(eb7961b7209240b428c62b84a9925024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Antilatency/Integration/Prefabs/AltBracersRig.prefab using Guid(eb7961b7209240b428c62b84a9925024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'decab2df8106e9164e7ea744b2b3ac78') in 0.084188 seconds
+  Import took 0.093493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.838366 seconds.
+  path: Assets/Antilatency/Integration/Prefabs/AltBracersRig 1.prefab
+  artifactKey: Guid(e698f8c06dff1c847a24d09c4f972ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Antilatency/Integration/Prefabs/AltBracersRig 1.prefab using Guid(e698f8c06dff1c847a24d09c4f972ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062035a94673a4dde4e1a7001b5a7c3a') in 0.055501 seconds
+  Import took 0.060427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000891 seconds.
+  path: Assets/Antilatency/Integration/Prefabs/AltBracersRig 1.prefab
+  artifactKey: Guid(e698f8c06dff1c847a24d09c4f972ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Antilatency/Integration/Prefabs/AltBracersRig 1.prefab using Guid(e698f8c06dff1c847a24d09c4f972ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062035a94673a4dde4e1a7001b5a7c3a') in 0.041018 seconds
+  Import took 0.046114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.696996 seconds.
+  path: Assets/Antilatency/Integration/Prefabs/AltBracersRig2.prefab
+  artifactKey: Guid(e698f8c06dff1c847a24d09c4f972ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Antilatency/Integration/Prefabs/AltBracersRig2.prefab using Guid(e698f8c06dff1c847a24d09c4f972ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8410194924496490e0dcc41df4599e') in 0.072592 seconds
+  Import took 0.078661 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 1.296282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.39 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.539 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.93 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.33 ms.
+Unloading 1553 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.9 MB.
+System memory in use after: 82.6 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 2009.
+Total: 3.084300 ms (FindLiveObjects: 0.469100 ms CreateObjectMapping: 0.179900 ms MarkObjects: 1.923400 ms  DeleteObjects: 0.510000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 1.113331 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.42 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.524 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.79 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.31 ms.
+Unloading 1553 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.9 MB.
+System memory in use after: 82.6 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 2013.
+Total: 2.159800 ms (FindLiveObjects: 0.176200 ms CreateObjectMapping: 0.057300 ms MarkObjects: 1.581100 ms  DeleteObjects: 0.343900 ms)
+

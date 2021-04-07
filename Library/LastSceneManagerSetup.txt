@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Antilatency/Integration/Samples/MainScene_All_floor.unity
+- path: Assets/Antilatency/Integration/Samples/BracerSample_Main.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

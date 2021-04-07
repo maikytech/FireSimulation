@@ -729,6 +729,30 @@
       <Project>{08E25B66-ECF5-63AD-55C8-6DC2DE3DE65A}</Project>
       <Name>Antilatency.Integration.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Addressable_Editor.csproj">
+      <Project>{3E9189B8-4A40-82E9-8F8C-0E7DFB02664A}</Project>
+      <Name>Addressable_Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UMA_Examples_Editor.csproj">
+      <Project>{576FE11C-A443-C9E2-E346-B5688060AE80}</Project>
+      <Name>UMA_Examples_Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UMA_Examples.csproj">
+      <Project>{580AB826-C99B-2DC8-9FBF-62BD2ACF012D}</Project>
+      <Name>UMA_Examples</Name>
+    </ProjectReference>
+    <ProjectReference Include="UMA_Content.csproj">
+      <Project>{345A3B95-F3A4-A6DE-9E77-AF996387802F}</Project>
+      <Name>UMA_Content</Name>
+    </ProjectReference>
+    <ProjectReference Include="UMA_Core.csproj">
+      <Project>{0154D4CC-7358-511F-6D3B-3541B7AAC25C}</Project>
+      <Name>UMA_Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="UMA_Core_Editor.csproj">
+      <Project>{47B05959-3F1F-64C9-0EF3-B3DD5FF1F52F}</Project>
+      <Name>UMA_Core_Editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
